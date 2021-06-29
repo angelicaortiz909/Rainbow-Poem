@@ -4,6 +4,6 @@ Purple
 Blue
 Red
 Green
-Yello
+Yellow
 
 What a sight.
